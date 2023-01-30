@@ -23,5 +23,5 @@ showTipAmount = () => {
     tipAmount.classList.add('show');
     setTimeout(() => {
         tipAmount.classList.remove("show"); 
-    }, 5000)
+    }, 7000)
 }
